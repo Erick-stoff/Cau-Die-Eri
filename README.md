@@ -1,2 +1,5 @@
-# Cau-Die-Eri
-primer repositorio del grupo
+Grupo Manson
+
+integrantes
+
+1. Erick Torres
